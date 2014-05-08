@@ -1,0 +1,36 @@
+{
+	"name": "isomer_edge",
+	"version": "0.0.0",
+	"homepage": "https://github.com/Igosuki/isomer_edge",
+	"authors": [
+		"igosuki@gmail.com"
+	],
+	"description": "A simple cube moving around",
+	"keywords": [
+		"isomerjs"
+	],
+	"dependencies": {
+		"angular": "1.2.5",
+		"angular-animate": "1.2.5",
+		"angular-sanitize": "1.2.5",
+		"angular-touch": "1.2.5",
+		"angular-route": "1.2.5",
+		"angular-cookies": "1.2.5",
+		"bourbon": "3.2.1",
+		"font-awesome": "latest",
+		"less-flexbox": "latest",
+		"momentjs": "latest",
+		"hammerjs": "latest",
+		"angular-hammer": "latest",
+		"angular-string": "latest",
+		"angular-array": "latest",
+		"angular-facebook-auth": "latest",
+		"angular-google-auth": "latest",
+		"angular-forminput": "latest",
+		"angular-socket-io": "latest"
+	},
+	"license": "MIT",
+	"resolutions": {
+		"angular": "1.2.5"
+	}
+}

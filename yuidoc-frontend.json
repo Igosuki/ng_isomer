@@ -1,0 +1,11 @@
+{
+	"name": "isomer_edge",
+    "description": "A simple cube moving around",
+    "version": "0.0.0",
+    "url": "https://github.com/Igosuki/isomer_edge",
+    "options": {
+        "paths": "./app/src/",
+        "outdir": "yuidocs/frontend",
+        "exclude": "bower_components,build,deploys,test"
+    }
+}
